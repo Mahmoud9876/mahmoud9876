@@ -6,7 +6,7 @@
 </div>
 
 ### 👨🏻‍💻 &nbsp;About Me
-[![Gmail Badge](![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white))&link=mailto:chahtane.mahmoud@gmail.com)](mailto:chahtane.mahmoudm@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khalifarsm@gmail.com)](mailto:khalifarsm@gmail.com)
 [![Stackoverflow Badge](![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white))](https://stackoverflow.com/users/10094324/mahmoud)
 
 ## 🔧 Technologies & Tools
