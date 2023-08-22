@@ -19,8 +19,8 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgreSQL&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Cassandra-informational?style=flat&logo=Apache-Cassandra&logoColor=white&color=6aa6f8)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=flat&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -33,7 +33,7 @@
 <p align="center">
   <a href="https://github.com/mahmoud9876" width="100%" style="display:flex">
     <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mahmoud9876&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=khalifarsm&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahmoud9876&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
