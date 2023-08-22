@@ -12,14 +12,14 @@
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 ![](https://img.shields.io/badge/Editor-IntelliJ-informational?style=flat&logo=IntelliJ-IDEA&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Spring-informational?style=flat&logo=Spring&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgreSQL&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Cassandra-informational?style=flat&logo=Apache-Cassandra&logoColor=white&color=6aa6f8)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
