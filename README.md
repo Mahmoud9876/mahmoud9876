@@ -6,12 +6,14 @@
 </div>
 
 ### 👨🏻‍💻 &nbsp;About Me
-[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khalifarsm@gmail.com)](mailto:chahtane.mahmoudm@gmail.com)
+[![Gmail Badge](![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)&link=mailto:chahtane.mahmoud@gmail.com)](mailto:chahtane.mahmoudm@gmail.com)
 [![Stackoverflow Badge](https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg)](https://stackoverflow.com/users/10094324/mahmoud)
 
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 ![](https://img.shields.io/badge/Editor-IntelliJ-informational?style=flat&logo=IntelliJ-IDEA&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Spring-informational?style=flat&logo=Spring&logoColor=white&color=6aa6f8)
@@ -28,21 +30,11 @@
   </h4>
 </div>
 <p align="center">
-  <a href="https://github.com/khalifarsm" width="100%" style="display:flex">
-    <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=khalifarsm&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/mahmoud9876" width="100%" style="display:flex">
+    <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mahmoud9876&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=khalifarsm&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
-
-## 🗂️ Highlight Projects
-<div align="center" style="display:flex; flex-wrap:no-wrap">
-  <a href="https://github.com/khalifarsm/SHOP" max-width="48%">
-    <img align="center" height="150em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=khalifarsm&repo=SHOP&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="SHOP"   />
-  </a>
-  <a href="https://github.com/khalifarsm/protfeuille-BE-" max-width="48%">
-    <img align="center" height="150em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=khalifarsm&repo=protfeuille-BE-&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="protfeuille-BE-" />
-  </a>
-</div>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -50,7 +42,9 @@ Technologies that I've been learning and I've picked up along my programming jou
 
 #### 🌐 Frontend : <br />
 
-![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-05122A?style=flat-square&logo=Thymeleaf)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat-square&logo=css3)
@@ -59,7 +53,6 @@ Technologies that I've been learning and I've picked up along my programming jou
 
 #### ✨ Backend : <br />
 
-![Spring](http://img.shields.io/badge/-Spring-05122A?style=flat-square&logo=Spring)
 ![ELK](http://img.shields.io/badge/-ELK-05122A?style=flat-square&logo=Elastic)
 ![Redis](http://img.shields.io/badge/-Redis-05122A?style=flat-square&logo=Redis)
 ![Cassandra](http://img.shields.io/badge/-Cassandra-05122A?style=flat-square&logo=Apache-Cassandra)
