@@ -7,7 +7,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 [![Gmail Badge](![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)&link=mailto:chahtane.mahmoud@gmail.com)](mailto:chahtane.mahmoudm@gmail.com)
-[![Stackoverflow Badge](https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg)](https://stackoverflow.com/users/10094324/mahmoud)
+[![Stackoverflow Badge](![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white))](https://stackoverflow.com/users/10094324/mahmoud)
 
 ## 🔧 Technologies & Tools
 
