@@ -7,7 +7,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khalifarsm@gmail.com)](mailto:khalifarsm@gmail.com)
-[(![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white))](https://stackoverflow.com/users/10094324/mahmoud)
+[(![Stack Overflow]https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white))](https://stackoverflow.com/users/10094324/mahmoud
 
 ## 🔧 Technologies & Tools
 
